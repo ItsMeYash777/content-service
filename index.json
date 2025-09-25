@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2024-12-19",
+    "description": "Educational roadmap content repository",
+    "totalTopics": 3,
+    "topics": [
+        {
+            "id": "operating-systems",
+            "displayName": "Operating Systems",
+            "moduleCount": 4,
+            "estimatedHours": 45
+        },
+        {
+            "id": "computer-networks",
+            "displayName": "Computer Networks",
+            "moduleCount": 4,
+            "estimatedHours": 50
+        },
+        {
+            "id": "algorithms",
+            "displayName": "Algorithms & Data Structures",
+            "moduleCount": 4,
+            "estimatedHours": 60
+        }
+    ],
+    "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/ItsMeYash777/roadmap-content@main"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "id": "operating-systems",
+  "displayName": "Operating Systems",
+  "description": "Complete guide to OS concepts",
+  "difficulty": "intermediate",
+  "estimatedHours": 45,
+  "icon": "🖥️",
+  "modules": [
+    "process-management",
+    "memory-management", 
+    "file-systems",
+    "scheduling-algorithms"
+  ]
+}
